@@ -1,0 +1,32 @@
+{
+  "name": "7workers/pifer",
+  "description": "Image fingerprinter",
+  "minimum-stability": "dev",
+  "version": "0.0.1",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Max Deshkevich",
+      "email": "7workers@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pif\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  }
+}
+
+
+
+
+
+
+
+
